@@ -32,6 +32,6 @@ Use [GitHub Issues](../../issues) with clear steps to reproduce, expected vs act
 
 ## Community
 - Discussions: [GitHub Discussions](../../discussions)
-- Security issues: report privately (see [SECURITY_POLICY.md](SECURITY_POLICY.md)).
+- Security issues: report privately (see [SECURITY_POLICY.md](SECURITY_POLICY.md).
 
 ---
