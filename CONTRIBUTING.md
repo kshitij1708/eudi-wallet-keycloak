@@ -25,3 +25,13 @@ mvn clean install
 
 # Run the dev environment
 docker compose up
+```
+## Reporting Issues
+
+Use [GitHub Issues](../../issues) with clear steps to reproduce, expected vs actual behavior, and logs if possible. Please include environment details (Keycloak version, plugin version, Java version, OS). Screenshots or logs are highly appreciated.
+
+## Community
+- Discussions: [GitHub Discussions](../../discussions)
+- Security issues: report privately (see SECURITY.md).
+
+---
