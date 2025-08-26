@@ -8,7 +8,8 @@
 ## 📖 Overview
 
 The **EUDI Keycloak Plugin** integrates **Keycloak** with the upcoming **European Digital Identity (EUDI) Wallet**, enabling organizations to authenticate users and issue credentials based on EU digital identity standards.
-
+🔗 Repository: github.com/kshitij1708/eudi-wallet-keycloak
+🔗 EUDI Wallet Info (EU): European Commission — EUDI
 🔑 **Key Features (MVP & Roadmap):**
 
 * **OID4VP Support** → Authenticate users with verifiable presentations from the EUDI Wallet.
